@@ -15,7 +15,6 @@
 - **ReadFile**:读取文件
 > 主要是学习下Python读取文件的方式
 
-###GUI
-
 ###DB
-
+- **ConnectDB**:操作数据库
+> 主要是学习下Python连接SQLite数据库,并建表,插值,查询
