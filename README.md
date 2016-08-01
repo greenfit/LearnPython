@@ -10,6 +10,8 @@
 > 主要是学习下Python与其他语言的不同地方
 - **Area**:计算长方形的面积
 > 主要是学习下Python的输入,循环和类型转换
+- **MultiplicationTable**:打印乘法表
+> 主要是学习下Python的多个条件的循环和map,reduce函数
 
 ###IO
 - **ReadFile**:读取文件
