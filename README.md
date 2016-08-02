@@ -16,6 +16,10 @@
 ###IO
 - **ReadFile**:读取文件
 > 主要是学习下Python读取文件的方式
+- **WriteFile**:写入文件
+> 主要是学习下Python追加方式写入文件
+- **CreateServer**:创建简单Web服务器
+> 主要是学习下Python的WSGI接口函数的使用
 
 ###DB
 - **ConnectDB**:操作数据库
