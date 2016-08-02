@@ -12,6 +12,8 @@
 > 主要是学习下Python的输入,循环和类型转换
 - **MultiplicationTable**:打印乘法表
 > 主要是学习下Python的多个条件的循环和map,reduce函数
+- **ListTuple**:列表和元组
+> 主要是学习下Python的列表和元组
 
 ###IO
 - **ReadFile**:读取文件
