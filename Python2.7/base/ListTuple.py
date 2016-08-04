@@ -6,3 +6,4 @@ print name
 type = ("工作中...", "读研中...", "找工作...");
 print type
 
+print name[-1] + type[0]
