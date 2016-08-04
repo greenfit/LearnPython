@@ -6,4 +6,5 @@ print name
 type = ("工作中...", "读研中...", "找工作...");
 print type
 
+#下标-1 为倒数
 print name[-1] + type[0]
