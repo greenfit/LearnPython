@@ -14,10 +14,10 @@ def decoInfo(function):
     return function
 
 print "---装饰器模式---"
-info = decoInfo(info)#只调用一次装饰器的代码 ???
+info2 = decoInfo(info)
 print "--- 完成装饰 ---"
-res = info()#此处仍为旧的代码 ???
-res2 = info()
+res = info()
+res2 = info2()
 print "调用结果为:" + res;
 print "调用结果为:" + res2;
 print "----------------"
