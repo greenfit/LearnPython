@@ -26,4 +26,3 @@ else:
     print "%s比%s大!" %(name,name2)
 
 #Python 使用缩进来代替语句块{}
-
