@@ -6,7 +6,7 @@ def info():
 
 print "---普通模式---"
 res = info()
-print "调用结果为:" + res;
+print "调用结果为:" + res
 print "--------------"
 
 def decoInfo(function):
@@ -18,9 +18,6 @@ info2 = decoInfo(info)
 print "--- 完成装饰 ---"
 res = info()
 res2 = info2()
-print "调用结果为:" + res;
-print "调用结果为:" + res2;
+print "调用结果为:" + res
+print "调用结果为:" + res2
 print "----------------"
-
-
-
